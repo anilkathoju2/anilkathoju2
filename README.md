@@ -106,10 +106,21 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anilkathoju2&theme=dark&hide_border=false&layout=compact)
 
 ---
-
----
 [![](https://visitcount.itsvg.in/api?id=anilkathoju2&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+Thanks for visiting my GitHub! 👋
+
+
