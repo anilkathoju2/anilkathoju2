@@ -32,22 +32,15 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 
 ## 🔧 Tech Stack & Tools
 
-### 🌩️ Cloud & Infrastructure  
-- AWS (EC2, IAM, VPC, S3, RDS, CloudWatch, EKS)  
-- Terraform (Modules, Workspaces, IaC)  
-- Ansible (Roles, Playbooks, Patching, Automation)
-
-### 🛠 DevOps & Automation  
-- Docker  
-- Kubernetes (EKS)  
-- Jenkins (Declarative Pipelines)  
-- GitHub Actions  
-- CI/CD Pipeline Design & Automation  
-
-### 💻 System & Platform  
-- Unix/Linux/AIX Administration  
-- Security, Hardening & Troubleshooting  
-- Application Deployments & Automation  
+**Cloud: AWS**
+**CI/CD: AWS DevOps , GitHub Actions &Jenkins**
+**Source Control:GitHub**
+**Infrastructure as Code (IaC): Terraform & CloudFormation & Ansible(CaC)**
+**Containers & Orchestration: Docker & Kubernetes**
+**Security & Scanning :SonarQube**
+**Scripting :Bash ,Shell & Python**
+**Monitoring :Splunk Dynatrace Prometheus Grafana & CloudWatch**
+**Operating Systems: Linux & AIX**
 
 ---
 
