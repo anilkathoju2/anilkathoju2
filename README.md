@@ -54,7 +54,7 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 ## 🏢 Professional Experience
 
 ---
-**<img src="/mnt/data/BetaNXT.png" height="24"/> BetaNXT — DevOps Engineer**  
+**<img src="https://github.com/anilkathoju2/anilkathoju2/blob/main/BetaNXT.png" height="24"/> BetaNXT — DevOps Engineer**  
 **(May 2024 – Present)**  
 - Working as a DevOps Engineer focusing on automation, infrastructure, CI/CD and cloud-native architecture.
 
