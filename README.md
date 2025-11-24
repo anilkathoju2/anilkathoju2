@@ -2,8 +2,8 @@
     <img src="https://github.com/anilkathoju2/anilkathoju2/blob/main/git_banner3.png" alt="GitHub Banner" width="800"/>
 </div>
 
-# 💫 About Me  
 👋 Hi, I'm **Kathoju Anil Kumar**  
+---
 **SRE | DevOps | AWS | Terraform | Ansible | Docker | Kubernetes | Linux | Jenkins | GitHub Actions | Prometheus | Grafana | DevSecOps | Unix | Linux | IBM-AIX**
 <br>
 
