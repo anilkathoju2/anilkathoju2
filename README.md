@@ -98,7 +98,7 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-
+---
 
 # 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=kkumaraix-max&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
