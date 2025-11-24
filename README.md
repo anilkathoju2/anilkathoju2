@@ -118,6 +118,10 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph.svg">
 </picture>
 
+---
+![Visitors](https://api.visitorbadge.io/api/visitors?path=anilkathoju2&countColor=%23263759&style=flat)
+
+---
 
 Thanks for visiting my GitHub! 👋
 
