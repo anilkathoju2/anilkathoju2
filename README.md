@@ -55,7 +55,7 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 
 ---
 
-**<img src="https://github.com/anilkathoju2/anilkathoju2/blob/main/BetaNXT.png" height="24"/> DevOps Engineer**  **(May 2024 – Present)**
+**<img src="https://github.com/anilkathoju2/anilkathoju2/blob/main/BetaNXT.png" height="32"/> DevOps Engineer**  **(May 2024 – Present)**
 - Working as a DevOps Engineer focusing on automation, infrastructure, CI/CD and cloud-native architecture.
 
 ---
