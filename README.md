@@ -17,16 +17,13 @@
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-
-<a href="mailto:anilkathoju@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </div>
 
 <br>
 
 Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud Automation, and CI/CD for the last 4+ years, building scalable and secure cloud environments using modern DevOps tooling and IaC, supported by 4+ years of strong Unix/Linux system expertise.
+
+--- 📫 How to reach me **anilkathoju@gmail.com**
 
 ---
 
@@ -52,6 +49,7 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 ✔ Improve system reliability through automation & monitoring  
 
 ---
+
 
 ## 🏢 Professional Experience
 
