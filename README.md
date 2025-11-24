@@ -100,12 +100,6 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 
 ---
 
-<!-- ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anilkathoju)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anilkathoju@gmail.com) -->
-
----
-
 # 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=kkumaraix-max&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
