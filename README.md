@@ -97,29 +97,12 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 
 ### 📊 GitHub Stats
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilkathoju2&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilkathoju2&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anilkathoju2&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilkathoju2&theme=dark&hide_border=false&layout=compact) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilkathoju2&theme=dark&hide_border=false&layout=compact)
 
-
-![GitHub Snake](https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/github-snake.svg)
-![GitHub Snake Dark](https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/github-snake-dark.svg)
-
-
----
-<!-- [![](https://visitcount.itsvg.in/api?id=anilkathoju2&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-
----
-### Pac-Man contribution graph
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph.svg">
-</picture> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph-dark.svg">
@@ -127,6 +110,19 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph.svg">
 </picture>
 
+
+---
+[![](https://visitcount.itsvg.in/api?id=anilkathoju2&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+---
+### Pac-Man contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=anilkathoju2&countColor=%23263759&style=flat)
