@@ -94,7 +94,7 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 ---
 
 # 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=anilkathoju2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=anilkathoju2&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=anilkathoju2&theme=dark&hide_border=false)
 
