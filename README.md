@@ -93,13 +93,16 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 
 ---
 
-### 🚀 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilkathoju2&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=anilkathoju2&theme=dark&hide_border=false)
+### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilkathoju2&layout=compact&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilkathoju2&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=anilkathoju2&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilkathoju2&theme=dark&hide_border=false&layout=compact)
+
 
 
 
