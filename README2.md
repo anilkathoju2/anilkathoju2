@@ -54,28 +54,31 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 ## 🏢 Professional Experience
 
 ---
-
-**<img src="https://github.com/anilkathoju2/anilkathoju2/blob/main/BetaNXT.png" height="32"/> DevOps Engineer**  **(May 2024 – Present)**
+**<img src="https://github.com/anilkathoju2/anilkathoju2/blob/main/BetaNXT.png" height="24"/> BetaNXT — DevOps Engineer**  **(May 2024 – Present)**  
 - Working as a DevOps Engineer focusing on automation, infrastructure, CI/CD and cloud-native architecture.
 
 ---
 
-**<img src="https://github.com/anilkathoju2/anilkathoju2/blob/main/IBM.png" height="32"/> Site Reliability Engineer** **(Nov 2022 – May 2024)**  
+**IBM - Site Reliability Engineer**
+**(Nov 2022 – May 2024)**  
 - Ensured application reliability, monitoring, automation, and large-scale system stability.
 
 ---
 
-**<img src="https://github.com/anilkathoju2/anilkathoju2/blob/main/Persistent.png" height="32"/>  Cloud Engineer** **(Sep 2021 – Oct 2022)**  
+**Persistent Systems - Cloud Engineer**
+**(Sep 2021 – Oct 2022)**  
 - Built and automated cloud deployments using DevOps and multi-cloud tools.
 
 ---
 
-**<img src="https://github.com/anilkathoju2/anilkathoju2/blob/main/HCL.png" height="32"/> Unix System Engineer** **(May 2020 – Sep 2021)**  
+**HCL Technologies - Unix System Engineer**
+**(May 2020 – Sep 2021)**  
 - Managed Unix/Linux systems, automation tasks, and production operations.
 
 ---
 
-**<img src="https://github.com/anilkathoju2/anilkathoju2/blob/main/Wipro.png" height="32"/> System Administrator** **(Feb 2017 – Apr 2020)**  
+**Wipro - System Administrator**
+**(Feb 2017 – Apr 2020)**  
 - Supported infrastructure operations, troubleshooting, and system performance management.
 
 ---
@@ -93,40 +96,25 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 
 ---
 
+# 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=anilkathoju2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
+![](https://nirzak-streak-stats.vercel.app/?user=anilkathoju2&theme=dark&hide_border=false)
 
-### 📊 GitHub Stats
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilkathoju2&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=anilkathoju2&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilkathoju2&theme=dark&hide_border=false&layout=compact) -->
-
-
-![GitHub Snake](https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/github-snake.svg)
-![GitHub Snake Dark](https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/github-snake-dark.svg)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anilkathoju2&theme=dark&hide_border=false&layout=compact)
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=anilkathoju2&icon=0&color=0)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=anilkathoju2&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ---
 ### Pac-Man contribution graph
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph.svg">
-</picture> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph.svg">
 </picture>
-
 
 ---
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=anilkathoju2&countColor=%23263759&style=flat)
