@@ -108,7 +108,10 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anilkathoju2&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=anilkathoju2&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
+https://api.visitorbadge.io/api/visitors?path=anilkathoju2&countColor=%23263759&style=flat&ignoreOwnVisits=true
+
 
 
 ---
