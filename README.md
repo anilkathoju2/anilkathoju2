@@ -107,9 +107,9 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anilkathoju2&theme=dark&hide_border=false&layout=compact) -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshmanp145&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Lakshmanp145&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmanp145&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anilkathoju2&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=anilkathoju2&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilkathoju2&theme=dark&hide_border=false&layout=compact" />
 </div>
 
 ---
@@ -117,7 +117,7 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 ### 🏆 GitHub Trophies
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lakshmanp145&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anilkathoju2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div> -->
 
@@ -125,7 +125,7 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 ---
 
 ### 📊 GitHub Activity Graph
-[![Lakshman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lakshmanp145&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anilkathoju2&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
