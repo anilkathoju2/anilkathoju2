@@ -114,12 +114,12 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 
 ---
 
-### 🏆 GitHub Trophies
+<!-- ### 🏆 GitHub Trophies
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anilkathoju2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div> -->
+</div> --> -->
 
 
 ---
