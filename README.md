@@ -29,7 +29,7 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 
 ## 🔧 Tech Stack & Tools
 
-- **Cloud**: AWS
+<!-- - **Cloud**: AWS
 - **CI/CD**: AWS DevOps , GitHub Actions &Jenkins
 - **Source Control**:GitHub
 - **Infrastructure as Code (IaC)**: Terraform & CloudFormation & Ansible(CaC)
@@ -38,6 +38,48 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 - **Scripting** :Bash ,Shell & Python
 - **Monitoring** :Splunk Dynatrace Prometheus Grafana & CloudWatch
 - **Operating Systems**: Linux & AIX
+ -->
+ ## 🛠 Tech Stack & Tools
+
+<style>
+.tech-icons img {
+  margin: 10px;
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+.tech-icons img:hover {
+  transform: scale(1.25);
+  filter: drop-shadow(0px 0px 8px #888);
+}
+.float {
+  animation: float 3s ease-in-out infinite;
+}
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-8px); }
+  100% { transform: translateY(0px); }
+}
+</style>
+
+### ☁️ Cloud
+<p class="tech-icons">
+  <img class="float" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/>
+</p>
+
+### 🚀 CI/CD
+<p class="tech-icons">
+  <img class="float" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+  <img class="float" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="55"/>
+  <img class="float" src="https://cdn.simpleicons.org/awsamplify/FF9900" width="55"/>
+</p>
+
+### 📦 Source Control
+<p class="tech-icons">
+  <img class="float" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+</p>
+
+### 🏗 In
+
+
 
 ---
 
