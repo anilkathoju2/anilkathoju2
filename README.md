@@ -41,43 +41,61 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
  -->
  ## 🛠 Tech Stack & Tools
 
-<style>
-.tech-icons img {
-  margin: 10px;
-  transition: transform 0.3s ease, filter 0.3s ease;
-}
-.tech-icons img:hover {
-  transform: scale(1.25);
-  filter: drop-shadow(0px 0px 8px #888);
-}
-.float {
-  animation: float 3s ease-in-out infinite;
-}
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-8px); }
-  100% { transform: translateY(0px); }
-}
-</style>
-
 ### ☁️ Cloud
-<p class="tech-icons">
-  <img class="float" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/>
 </p>
 
 ### 🚀 CI/CD
-<p class="tech-icons">
-  <img class="float" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
-  <img class="float" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="55"/>
-  <img class="float" src="https://cdn.simpleicons.org/awsamplify/FF9900" width="55"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/awsamplify/FF9900" width="50"/>
 </p>
 
 ### 📦 Source Control
-<p class="tech-icons">
-  <img class="float" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </p>
 
-### 🏗 In
+### 🏗 Infrastructure as Code
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/amazoncloudformation/FF9900" width="50"/>
+</p>
+
+### 🐳 Containers & Orchestration
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
+</p>
+
+### 🔐 Security & Scanning
+<p>
+  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" width="50"/>
+</p>
+
+### 🐍 Scripting
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+</p>
+
+### 📊 Monitoring
+<p>
+  <img src="https://cdn.simpleicons.org/splunk/000000" width="50"/>
+  <img src="https://cdn.simpleicons.org/dynatrace/1496FF" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/amazoncloudwatch/FF9900" width="50"/>
+</p>
+
+### 🖥 Operating Systems
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/ibm/052FAD" width="50" title="AIX"/>
+</p>
 
 
 
