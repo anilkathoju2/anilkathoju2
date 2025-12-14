@@ -39,62 +39,62 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 - **Monitoring** :Splunk Dynatrace Prometheus Grafana & CloudWatch
 - **Operating Systems**: Linux & AIX
  -->
- ## 🛠 Tech Stack & Tools
+ ## 🛠️ Tech Stack & Tools
 
 ### ☁️ Cloud
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55" />
 </p>
 
 ### 🚀 CI/CD
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50"/>
-  <img src="https://cdn.simpleicons.org/awsamplify/FF9900" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="55" />
+  <img src="https://img.shields.io/badge/AWS%20DevOps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ### 📦 Source Control
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" />
 </p>
 
-### 🏗 Infrastructure as Code
+### 🏗️ Infrastructure as Code
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50"/>
-  <img src="https://cdn.simpleicons.org/amazoncloudformation/FF9900" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="55" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ### 🐳 Containers & Orchestration
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="55" />
 </p>
 
 ### 🔐 Security & Scanning
 <p>
-  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" width="50"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
 </p>
 
 ### 🐍 Scripting
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
 </p>
 
 ### 📊 Monitoring
 <p>
-  <img src="https://cdn.simpleicons.org/splunk/000000" width="50"/>
-  <img src="https://cdn.simpleicons.org/dynatrace/1496FF" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50"/>
-  <img src="https://cdn.simpleicons.org/amazoncloudwatch/FF9900" width="50"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="55" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-### 🖥 Operating Systems
+### 🖥️ Operating Systems
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-  <img src="https://cdn.simpleicons.org/ibm/052FAD" width="50" title="AIX"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" />
+  <img src="https://img.shields.io/badge/AIX-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
 
