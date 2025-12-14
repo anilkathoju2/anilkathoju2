@@ -30,7 +30,7 @@
 
 Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud Automation, and CI/CD for the last 4+ years, building scalable and secure cloud environments using modern DevOps tooling and IaC, supported by 4+ years of strong Unix/Linux system expertise.
 
-📫 How to reach me: **anilkathoju@gmail.com** and **+91 76750-17564**
+<!-- 📫 How to reach me: **anilkathoju@gmail.com** and **+91 76750-17564** -->
 
 ---
 
@@ -191,6 +191,13 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 
 ![Visitor Count](https://api.visitorbadge.io/api/visitors?path=anilkathoju2&countColor=%23263759&style=flat&ignoreOwnVisits=true)
 
+
+---
+
+📫 **How to reach me**
+
+[![Email](https://img.shields.io/badge/Email-anilkathoju@gmail.com-red?logo=gmail&style=flat)](mailto:anilkathoju@gmail.com)
+[![Phone](https://img.shields.io/badge/Mobile-+91%2076750--17564-green?logo=phone&style=flat)](tel:+917675017564)
 
 ---
 
