@@ -24,7 +24,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://linkedin.com/in/anilkathoju)
 [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-black?logo=medium&style=flat)](https://anilkathoju.medium.com)
 [![Gmail](https://img.shields.io/badge/Email-anilkathoju@gmail.com-red?logo=gmail&style=flat)](mailto:anilkathoju@gmail.com)
-[![Phone](https://img.shields.io/badge/Mobile-+91%2076750--17564-green?logo=phone&style=flat)](tel:+917675017564)
+<!-- [![Phone](https://img.shields.io/badge/Mobile-+91%2076750--17564-green?logo=phone&style=flat)](tel:+917675017564) -->
 
 
 
