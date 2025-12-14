@@ -53,8 +53,8 @@ Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud A
 ### ☁️ Cloud Platform & OS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![IBM-AIX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![UNIX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![IBM-AIX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=IBM-AIX&logoColor=black)
+![UNIX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=UNIX&logoColor=black)
 
 
 
