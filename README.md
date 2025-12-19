@@ -28,7 +28,8 @@
 
 
 
-Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud Automation, and CI/CD for the last 4+ years, building scalable and secure cloud environments using modern DevOps tooling and IaC, supported by 4+ years of strong Unix/Linux system expertise.
+DevOps Engineer with 4+ years of experience in Cloud Automation and CI/CD, specializing in building scalable and secure cloud environments using modern DevOps tooling and Infrastructure as Code (IaC). Proven expertise in designing, automating, and optimizing deployment pipelines and cloud-native solutions to enable reliable and efficient software delivery.
+
 
 <!-- 📫 How to reach me: **anilkathoju@gmail.com** and **+91 76750-17564** -->
 
