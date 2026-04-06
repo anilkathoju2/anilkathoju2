@@ -107,7 +107,7 @@ DevOps Engineer with 4+ years of experience in Cloud Automation and CI/CD, speci
 ---
 
 **<img src="https://github.com/anilkathoju2/anilkathoju2/blob/main/Persistent.png" height="32"/>  Cloud Engineer** **(Sep 2021 – Oct 2022)**  
-- Built and automated cloud deployments using DevOps and multi-cloud tools.
+- Built and automated AIX patch management processes using BigFix and Ansible, ensuring consistent and secure deployment across enterprise systems..
 
 ---
 
