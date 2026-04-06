@@ -4,7 +4,7 @@
 
 👋 Hi, I'm **Kathoju Anil Kumar**  
 ---
-**DevOps | SRE | Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD | Docker | 9+ Years IT Experience | 4+ Years Specializing in DevOps & Cloud Automation | Strong Unix/Linux Background**
+**DevOps | SRE | Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD | Docker | 9+ Years IT Experience | 3+ Years Specializing in DevOps & Cloud Automation | Strong Unix/Linux Background**
 <br>
 
 <!-- <div align="center">
@@ -28,7 +28,7 @@
 
 
 
-DevOps Engineer with 4+ years of experience in Cloud Automation and CI/CD, specializing in building scalable and secure cloud environments using modern DevOps tooling and Infrastructure as Code (IaC). Proven expertise in designing, automating, and optimizing deployment pipelines and cloud-native solutions to enable reliable and efficient software delivery.
+DevOps Engineer with 3+ years of experience in Cloud Automation and CI/CD, specializing in building scalable and secure cloud environments using modern DevOps tooling and Infrastructure as Code (IaC). Proven expertise in designing, automating, and optimizing deployment pipelines and cloud-native solutions to enable reliable and efficient software delivery.
 
 
 <!-- 📫 How to reach me: **anilkathoju@gmail.com** and **+91 76750-17564** -->
